@@ -31,10 +31,10 @@ Goals are the common goals a beginner might have:
 
 The repository will grow over time. Planned structure:
 
- - /Examples   → small snippets exploring specific Rust features
- - /Projects   → mini‑projects and experiments
- - /Notes      → personal notes, explanations, comparisons
- - /Resources  → useful links, articles, videos, and books
+ - [/Examples](Examples)  → small snippets exploring specific Rust features
+ - [/Projects](Projects)  → mini‑projects and experiments
+ - [/Notes](Notes)  → personal notes, explanations, comparisons
+ - [/Resources](Resources)  → useful links, articles, videos, and books
 
 ## Contributions
 
